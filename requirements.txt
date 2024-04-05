@@ -1,0 +1,16 @@
+git+https://github.com/Capitains/Nautilus
+cltk==1.2.1
+git+https://github.com/cwf2/dices-client
+ipywidgets
+lxml
+matplotlib
+MyCapytain
+seaborn
+networkx
+pandas==2.2.1
+scipy==1.12.0
+openpyxl
+qwikidata
+scikit-learn
+spacy==3.7.2
+widgetsnbextension
